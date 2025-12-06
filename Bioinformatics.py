@@ -13,8 +13,8 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="Bioinformatics K-Means Clustering", layout="wide")
 
 # Title
-st.title("Bioinformatics K-Means Clustering with Simple Insights")
-st.markdown("Cluster bioinformatics data and get plain English insights without needing math knowledge.")
+st.title("Bioinformatics K-Means Clustering ")
+st.markdown("Cluster bioinformatics data .")
 
 # File upload
 uploaded_file = st.file_uploader("Upload your CSV file", type=['csv'])
